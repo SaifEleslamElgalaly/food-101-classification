@@ -1,0 +1,15 @@
+apple_pie
+bread_pudding
+caesar_salad
+cheesecake
+donuts
+french_fries
+grilled_salmon
+ice_cream
+pizza
+ramen
+samosa
+steak
+sushi
+tacos
+waffles
